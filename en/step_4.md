@@ -1,4 +1,4 @@
- ## Making the Die using Wolfram in the Browser
+## Making the Die using Wolfram in the Browser
 
 Now we will build the dice roller.
 
